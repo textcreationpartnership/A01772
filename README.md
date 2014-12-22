@@ -35,16 +35,24 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Argalus and Parthenia· as it hath been acted at the court before their Maiesties: and at the Private
+
+1. The Persons.
+
 #####Body#####
+Actus I. Scena I.DEMAGORAS, PHILARCHUS.VRge this no more, 'tis troublesome.Philar.My Lord, though I 
+    _ Actus I. Scena I.
 
-1. Actus I. Scena I.
+    _ Scena 2.
+Actus 2. Scena 1.Argalus, Kalander, Philarchus.YOu are too strangely timorous, your full worthSpeake
+    _ Actus 2. Scena 1.
 
-1. Scena 2.
+    _ Scena secunda.
 
-1. Actus 2. Scena 1.
+1. Actus 3. Scena 1.
 
-1. Scena secunda.
+1. Actus 4. Scena 1.
+
+1. Actus 5. Scena I.
 
 **Types of content**
 
